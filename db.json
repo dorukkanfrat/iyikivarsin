@@ -1,0 +1,79 @@
+{
+    "sessions": [
+      {
+        "image": "https://placehold.co/250x250",
+        "title": "Lorem Ipsum 1",
+        "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates",
+        "date": "12.12.2021",
+        "time": "12.00",
+        "location_name": "Pera Palace Otel",
+        "location_google": "https://maps.app.goo.gl/v8zd8teXHPGJCJo58"
+      },
+      {
+        "image": "https://placehold.co/250x250",
+        "title": "Lorem Ipsum 2",
+        "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates",
+        "date": "13.12.2021",
+        "time": "13.00",
+        "location_name": "Hilton Otel",
+        "location_google": "https://maps.app.goo.gl/v8zd8teXHPGJCJo59"
+      },
+      {
+        "image": "https://placehold.co/250x250",
+        "title": "Lorem Ipsum 3",
+        "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates",
+        "date": "14.12.2021",
+        "time": "14.00",
+        "location_name": "Four Seasons Otel",
+        "location_google": "https://maps.app.goo.gl/v8zd8teXHPGJCJo60"
+      },
+      {
+        "image": "https://placehold.co/250x250",
+        "title": "Lorem Ipsum 4",
+        "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates",
+        "date": "15.12.2021",
+        "time": "15.00",
+        "location_name": "Ritz-Carlton Otel",
+        "location_google": "https://maps.app.goo.gl/v8zd8teXHPGJCJo61"
+      }
+    ],
+    "reference": [
+      {
+        "image": "https://placehold.co/240x240",
+        "name": "Selincan Turna",
+        "job": "Mühendis",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+      },
+      {
+        "image": "https://placehold.co/240x240",
+        "name": "Selincan Turna",
+        "job": "Mühendis",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+      },
+      {
+        "image": "https://placehold.co/240x240",
+        "name": "Selincan Turna",
+        "job": "Mühendis",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+      },
+      {
+        "image": "https://placehold.co/240x240",
+        "name": "Selincan Turna",
+        "job": "Mühendis",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+      },
+      {
+        "image": "https://placehold.co/240x240",
+        "name": "Selincan Turna",
+        "job": "Mühendis",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+      },
+      {
+        "image": "https://placehold.co/240x240",
+        "name": "Selincan Turna",
+        "job": "Mühendis",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+      }
+    ]
+  }
+  
