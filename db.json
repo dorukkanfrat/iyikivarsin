@@ -84,5 +84,27 @@
       "title": "Lorem Ipsum 1",
       "content": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
     }
+  ],
+  "blog": [
+    {
+      "image": "https://placehold.co/400x400",
+      "title": "Lorem Ipsum 1",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+    },
+    {
+      "image": "https://placehold.co/400x400",
+      "title": "Lorem Ipsum 1",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+    },
+    {
+      "image": "https://placehold.co/400x400",
+      "title": "Lorem Ipsum 1",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+    },
+    {
+      "image": "https://placehold.co/400x400",
+      "title": "Lorem Ipsum 1",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicingelit. Quisquam, voluptates"
+    }
   ]
 }
